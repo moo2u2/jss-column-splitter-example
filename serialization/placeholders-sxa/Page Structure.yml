@@ -1,0 +1,23 @@
+﻿---
+ID: "05c09d9e-7ba3-4abb-a65c-d5badc8e8c3c"
+Parent: "70e90fd5-6d55-400d-b493-9b58742569f6"
+Template: "239f9cf4-e5a0-44e0-b342-0f32cd4c6d8b"
+Path: /sitecore/layout/Placeholder Settings/Feature/JSS Experience Accelerator/Page Structure
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230425T100318Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "af715be6-b544-4fcc-9bbf-7cc6d6ba4dc2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230425T100318Z

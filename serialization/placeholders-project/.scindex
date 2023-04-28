@@ -1,0 +1,19 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\placeholders-project\Headless\jss-main.yml
+ID: "e8860c85-41c7-445a-8c08-4b5546b3b7c0"
+Parent: "2d84f325-d9f7-41cf-a294-9b69c87d644c"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/Headless/jss-main"
+Signature: sIZOsqixZ/45SfHmw563tRGnAWuc13VqLoSN+d0k68U=
+Modified: 638182361586184230
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\placeholders-project\Headless.yml
+ID: "2d84f325-d9f7-41cf-a294-9b69c87d644c"
+Parent: "f5f0fbe3-61ad-4967-a5d8-8d760331d6a1"
+Template: "c3b037a0-46e5-4b67-ac7a-a144b962a56f"
+Path: /sitecore/layout/Placeholder Settings/Project/Headless
+Signature: GAKG4WXqz5XKcyMg41NeK1BRzFS6X8PedA7roCV51uY=
+Modified: 638182361586041034

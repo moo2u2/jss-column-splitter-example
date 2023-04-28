@@ -1,0 +1,46 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\renderings\JSS Experience Accelerator\Page Structure\Column Splitter.yml
+ID: "15cabdff-ffd9-48f4-826d-a4c3d7868d3a"
+Parent: "46ae7f37-4896-4823-ad0a-8f39927480ca"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/JSS Experience Accelerator/Page Structure/Column Splitter
+Signature: x4Iv7KGON35rrwAk98kIyc5dr3RT98+L0hobGgu41TQ=
+Modified: 638182361584935614
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\renderings\JSS Experience Accelerator.yml
+ID: "3b50355a-5e7c-4379-ad1f-a0b73d3a5aa9"
+Parent: "da61ad50-8fdb-4252-a68f-b4470b1c9fe8"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Feature/JSS Experience Accelerator
+Signature: fpe99Qr1pq/LzMIiOchVkK0+NPfV8Jid9QyCcmb92IM=
+Modified: 638182361584519664
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\renderings\JSS Experience Accelerator\Page Structure.yml
+ID: "46ae7f37-4896-4823-ad0a-8f39927480ca"
+Parent: "3b50355a-5e7c-4379-ad1f-a0b73d3a5aa9"
+Template: "239f9cf4-e5a0-44e0-b342-0f32cd4c6d8b"
+Path: /sitecore/layout/Renderings/Feature/JSS Experience Accelerator/Page Structure
+Signature: 2uSJSCnE1v5t8IE2UbwxdEK1Q6VnAHxK7v0azWLztB4=
+Modified: 638182361584716264
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\renderings\JSS Experience Accelerator\Page Content\RichText.yml
+ID: "9c6d53e3-fe57-4638-af7b-6d68304c7a94"
+Parent: "c49932e4-7b27-4c39-a1d2-64dc47af5b8e"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/JSS Experience Accelerator/Page Content/RichText
+Signature: 9OQ3zOTz6eQ1Ukb09xsDsYmpR8am0YwkHKQQ/vRQItg=
+Modified: 638182361584845022
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\renderings\JSS Experience Accelerator\Page Content.yml
+ID: "c49932e4-7b27-4c39-a1d2-64dc47af5b8e"
+Parent: "3b50355a-5e7c-4379-ad1f-a0b73d3a5aa9"
+Template: "239f9cf4-e5a0-44e0-b342-0f32cd4c6d8b"
+Path: /sitecore/layout/Renderings/Feature/JSS Experience Accelerator/Page Content
+Signature: LfiKAK3PNjZY4Rp/UWrRbsTMC5yoGvIRYs77X3SmunQ=
+Modified: 638182361584606836

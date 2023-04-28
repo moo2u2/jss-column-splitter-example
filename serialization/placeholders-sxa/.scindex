@@ -1,0 +1,91 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\placeholders-sxa\Page Structure\Column Splitter.yml
+ID: "a539233a-1277-479a-84a0-d5951c864d74"
+Parent: "05c09d9e-7ba3-4abb-a65c-d5badc8e8c3c"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/layout/Placeholder Settings/Feature/JSS Experience Accelerator/Page Structure/Column Splitter
+Signature: zyhkwwhia7GhVflca+Xzqz09aKFse/s0hRcn2okQih0=
+Modified: 638182361585102333
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\placeholders-sxa\Page Structure\Column Splitter\Column4.yml
+ID: "218f9444-1d78-432a-8cb9-9c68c9d915dd"
+Parent: "a539233a-1277-479a-84a0-d5951c864d74"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: /sitecore/layout/Placeholder Settings/Feature/JSS Experience Accelerator/Page Structure/Column Splitter/Column4
+Signature: dHgFBj5V5dtHrmxkiN+F2S1bSMgtXpBO58B47Celd58=
+Modified: 638182361585580677
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\placeholders-sxa\Page Structure.yml
+ID: "05c09d9e-7ba3-4abb-a65c-d5badc8e8c3c"
+Parent: "70e90fd5-6d55-400d-b493-9b58742569f6"
+Template: "239f9cf4-e5a0-44e0-b342-0f32cd4c6d8b"
+Path: /sitecore/layout/Placeholder Settings/Feature/JSS Experience Accelerator/Page Structure
+Signature: 2uSJSCnE1v5t8IE2UbwxdEK1Q6VnAHxK7v0azWLztB4=
+Modified: 638182361585020002
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\placeholders-sxa\Page Structure\Column Splitter\Column5.yml
+ID: "75a505dd-9830-47e9-90bc-6c46df737781"
+Parent: "a539233a-1277-479a-84a0-d5951c864d74"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: /sitecore/layout/Placeholder Settings/Feature/JSS Experience Accelerator/Page Structure/Column Splitter/Column5
+Signature: hz+mTOKbnb2EEdTJjpsl6qeY9p5NKqfafQMNd8uwNtU=
+Modified: 638182361585670349
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\placeholders-sxa\Page Structure\Column Splitter\Column3.yml
+ID: "17702b14-f444-49e5-82c3-02cab16e3de9"
+Parent: "a539233a-1277-479a-84a0-d5951c864d74"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: /sitecore/layout/Placeholder Settings/Feature/JSS Experience Accelerator/Page Structure/Column Splitter/Column3
+Signature: qWLdw2HnZJSRGfRJeX4d9pILXW/ySf9DNOgAWbUb7LY=
+Modified: 638182361585469908
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\placeholders-sxa\Page Structure\Column Splitter\Column8.yml
+ID: "fa10e340-f3e0-47f5-90b3-6a14af8b638b"
+Parent: "a539233a-1277-479a-84a0-d5951c864d74"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: /sitecore/layout/Placeholder Settings/Feature/JSS Experience Accelerator/Page Structure/Column Splitter/Column8
+Signature: Dw2ueuKrrUWe1bvfzooLpUayQpyKaSbLJlCoaqYpdhw=
+Modified: 638182361585945600
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\placeholders-sxa\Page Structure\Column Splitter\Column2.yml
+ID: "cadbb81d-5f25-4abe-bcf1-8d762be211d5"
+Parent: "a539233a-1277-479a-84a0-d5951c864d74"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: /sitecore/layout/Placeholder Settings/Feature/JSS Experience Accelerator/Page Structure/Column Splitter/Column2
+Signature: jkh/gc5hukpD/2jsWkoQvtovjGUGV/+UoS6NNDYwL0U=
+Modified: 638182361585343850
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\placeholders-sxa\Page Structure\Column Splitter\Column6.yml
+ID: "9ee9fedf-db8b-47a6-806d-a42dcde1a638"
+Parent: "a539233a-1277-479a-84a0-d5951c864d74"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: /sitecore/layout/Placeholder Settings/Feature/JSS Experience Accelerator/Page Structure/Column Splitter/Column6
+Signature: HJbcfrBPyei0JJnQZs/Ls4wART2yt1NGwRrmDD6xvVQ=
+Modified: 638182361585765748
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\placeholders-sxa\Page Structure\Column Splitter\Column1.yml
+ID: "65122b20-1990-4335-9906-b9a556f6b7e2"
+Parent: "a539233a-1277-479a-84a0-d5951c864d74"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: /sitecore/layout/Placeholder Settings/Feature/JSS Experience Accelerator/Page Structure/Column Splitter/Column1
+Signature: kuSM3xhic6Ee9kM6lAb0SXR/D0BAVDLVCGE4N2G4BEk=
+Modified: 638182361585217715
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\placeholders-sxa\Page Structure\Column Splitter\Column7.yml
+ID: "17c4d8b6-7017-462e-8611-409f2081184c"
+Parent: "a539233a-1277-479a-84a0-d5951c864d74"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: /sitecore/layout/Placeholder Settings/Feature/JSS Experience Accelerator/Page Structure/Column Splitter/Column7
+Signature: KQ0Il3UWbRln2924qo1dYzUwDN2VVLq7g8NeAMrUayc=
+Modified: 638182361585855757

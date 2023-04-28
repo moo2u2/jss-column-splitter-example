@@ -1,0 +1,244 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\tailwind\Tailwind\Tailwind.yml
+ID: "edceed34-1772-4f0e-af69-cbb2196355d1"
+Parent: "3e03935b-7e44-43cb-85e5-dbaaa19a9cac"
+Template: "a12ef6de-1e2a-4d9b-82b4-dffb70189e52"
+Path: /sitecore/system/Settings/Feature/Tailwind/Tailwind
+Signature: +iCwgRqpcbNx3ZDXasnPN+qIhVtuVjkz0/iH7A4Txok=
+Modified: 638182361581924503
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\tailwind\Tailwind\Tailwind\Tablet.yml
+ID: "94db56d6-c390-4bd7-9b19-6b74a10f2d90"
+Parent: "edceed34-1772-4f0e-af69-cbb2196355d1"
+Template: "bca0e629-150f-41dd-893b-f4b65338c0b7"
+Path: /sitecore/system/Settings/Feature/Tailwind/Tailwind/Tablet
+Signature: 8fCJFWTvhVvd9ukPlovIWBKdIeDytwKYfd9cVMEiGuM=
+Modified: 638182361582184795
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\tailwind\Tailwind\Tailwind\Tablet\Size.yml
+ID: "aa77224d-216f-4551-9f21-d98343006ee6"
+Parent: "94db56d6-c390-4bd7-9b19-6b74a10f2d90"
+Template: "5e32e75f-446a-412c-8ed8-922320ae9031"
+Path: /sitecore/system/Settings/Feature/Tailwind/Tailwind/Tablet/Size
+Signature: o8dNVoZDM95ZwRX6TvQEFhiTFQE6WVPDyvVQBHUiynA=
+Modified: 638182361582490227
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\tailwind\Tailwind\Tailwind\Desktop\Size\One Quarter.yml
+ID: "d4f46afa-a5bf-4abe-b266-4aa602327a65"
+Parent: "3bfc12ec-3da8-4bb7-b14b-0d52b65f1339"
+Template: "cb3b3906-be80-4d9b-a2a4-038193da5422"
+Path: /sitecore/system/Settings/Feature/Tailwind/Tailwind/Desktop/Size/One Quarter
+Signature: 8Obmraam5oEHhxegXbejsFAEZyTwaENq/eEyCrLT/Mk=
+Modified: 638182361584114482
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\tailwind\Tailwind\Tailwind\Mobile\Size\One Sixth.yml
+ID: "193e8f3b-5f5e-4fb6-b8df-f8a74f20ada5"
+Parent: "ecff1527-8784-459c-bf4b-01080fa7ef96"
+Template: "cb3b3906-be80-4d9b-a2a4-038193da5422"
+Path: /sitecore/system/Settings/Feature/Tailwind/Tailwind/Mobile/Size/One Sixth
+Signature: 5YfVSRfDNo34fmhZFu/NhT4xFptjlg56b1VwJkD0iDg=
+Modified: 638182361582985256
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\tailwind\Tailwind\Tailwind Grid Setup.yml
+ID: "86405b79-ee7a-4d40-9045-b9e6858b72ec"
+Parent: "3e03935b-7e44-43cb-85e5-dbaaa19a9cac"
+Template: "dbdf5dfd-f79b-4766-99b9-e29775d97328"
+Path: /sitecore/system/Settings/Feature/Tailwind/Tailwind Grid Setup
+Signature: AOrAkJ+mSTp2ef0//KWVspHdMtBkh0E6+001t16JoBs=
+Modified: 638182361582010802
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\tailwind\Tailwind\Tailwind\Mobile.yml
+ID: "73368e1a-bcf8-44c0-bb92-a6037165873d"
+Parent: "edceed34-1772-4f0e-af69-cbb2196355d1"
+Template: "bca0e629-150f-41dd-893b-f4b65338c0b7"
+Path: /sitecore/system/Settings/Feature/Tailwind/Tailwind/Mobile
+Signature: ZbmFhjZefiZiWxmiUrW3EJHDPXylDyoYIw/+0MiMRV4=
+Modified: 638182361582105324
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\tailwind\Tailwind\Tailwind\Desktop\Size\Half.yml
+ID: "04276cab-dbab-4f55-a804-0a6b684a25ca"
+Parent: "3bfc12ec-3da8-4bb7-b14b-0d52b65f1339"
+Template: "cb3b3906-be80-4d9b-a2a4-038193da5422"
+Path: /sitecore/system/Settings/Feature/Tailwind/Tailwind/Desktop/Size/Half
+Signature: XDpEGo41BV6jNcmBJc0yHlFwBSwmVd3/h2HP760Smds=
+Modified: 638182361583918160
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\tailwind\Tailwind\Tailwind\Desktop\Size\One Fifth.yml
+ID: "af32ea5a-5704-4fe8-813a-d29ccda3680f"
+Parent: "3bfc12ec-3da8-4bb7-b14b-0d52b65f1339"
+Template: "cb3b3906-be80-4d9b-a2a4-038193da5422"
+Path: /sitecore/system/Settings/Feature/Tailwind/Tailwind/Desktop/Size/One Fifth
+Signature: nSuQHdrW3XIf8m36ZeB8CswnMEpgPhI5C75HOqJvZIY=
+Modified: 638182361584023754
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\tailwind\Tailwind\Tailwind\Mobile\Size\One Quarter.yml
+ID: "6e504684-fb02-4fbe-b3b1-42ffb39b03e5"
+Parent: "ecff1527-8784-459c-bf4b-01080fa7ef96"
+Template: "cb3b3906-be80-4d9b-a2a4-038193da5422"
+Path: /sitecore/system/Settings/Feature/Tailwind/Tailwind/Mobile/Size/One Quarter
+Signature: 1qnQfufjAQ2hnN9GxBcg82AF/HSpeCG5JZO8AZQj6+o=
+Modified: 638182361582864559
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\tailwind\Tailwind\Tailwind\Tablet\Size\One Fifth.yml
+ID: "d3764a93-ac5d-4efe-85e0-61eeabca80c4"
+Parent: "aa77224d-216f-4551-9f21-d98343006ee6"
+Template: "cb3b3906-be80-4d9b-a2a4-038193da5422"
+Path: /sitecore/system/Settings/Feature/Tailwind/Tailwind/Tablet/Size/One Fifth
+Signature: mHY6cPLGEAxuI59Q0K5wjIgk3cBpgETOQdHLRVoqcb0=
+Modified: 638182361583395929
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\tailwind\Tailwind\Tailwind\Mobile\Size.yml
+ID: "ecff1527-8784-459c-bf4b-01080fa7ef96"
+Parent: "73368e1a-bcf8-44c0-bb92-a6037165873d"
+Template: "5e32e75f-446a-412c-8ed8-922320ae9031"
+Path: /sitecore/system/Settings/Feature/Tailwind/Tailwind/Mobile/Size
+Signature: qz/Is5htaLyfWikKXAcvP+Y3ZtMw2HAsqAEA9jKIL7w=
+Modified: 638182361582401916
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\tailwind\Tailwind\Tailwind\Desktop\Size\One Sixth.yml
+ID: "4668bc21-31df-4c87-9112-efdc2bd6f779"
+Parent: "3bfc12ec-3da8-4bb7-b14b-0d52b65f1339"
+Template: "cb3b3906-be80-4d9b-a2a4-038193da5422"
+Path: /sitecore/system/Settings/Feature/Tailwind/Tailwind/Desktop/Size/One Sixth
+Signature: axLa1a87kML/jlRk1NFSRCqCDd314TYHmEdX0MpqIbw=
+Modified: 638182361584220166
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\tailwind\Tailwind\Tailwind\Mobile\Size\One Fifth.yml
+ID: "ec377370-b11e-4d41-bb53-ab0d8fee457c"
+Parent: "ecff1527-8784-459c-bf4b-01080fa7ef96"
+Template: "cb3b3906-be80-4d9b-a2a4-038193da5422"
+Path: /sitecore/system/Settings/Feature/Tailwind/Tailwind/Mobile/Size/One Fifth
+Signature: l3rHiUgxA/S7P77jL2fBeg60WZCycp9HD4PBrPIAbQY=
+Modified: 638182361582771445
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\tailwind\Tailwind\Tailwind\Tablet\Size\One Quarter.yml
+ID: "45728f0a-1014-48e6-be81-25b95d51b438"
+Parent: "aa77224d-216f-4551-9f21-d98343006ee6"
+Template: "cb3b3906-be80-4d9b-a2a4-038193da5422"
+Path: /sitecore/system/Settings/Feature/Tailwind/Tailwind/Tablet/Size/One Quarter
+Signature: EWgMK40rc11K3d8bCpSnEA8V8O1cTnRPedXPyMXyFTM=
+Modified: 638182361583501089
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\tailwind\Tailwind\Tailwind\Mobile\Size\Half.yml
+ID: "dd1604d7-6934-43d5-a6b8-4ac5c8e2769f"
+Parent: "ecff1527-8784-459c-bf4b-01080fa7ef96"
+Template: "cb3b3906-be80-4d9b-a2a4-038193da5422"
+Path: /sitecore/system/Settings/Feature/Tailwind/Tailwind/Mobile/Size/Half
+Signature: hMIX8TPz9dNTirxNBeqQO09HwVtB0R+l5C+ltSi/aks=
+Modified: 638182361582678822
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\tailwind\Tailwind\Tailwind\Mobile\Size\One Third.yml
+ID: "a37de30f-a820-4002-a564-f989d9b61cdc"
+Parent: "ecff1527-8784-459c-bf4b-01080fa7ef96"
+Template: "cb3b3906-be80-4d9b-a2a4-038193da5422"
+Path: /sitecore/system/Settings/Feature/Tailwind/Tailwind/Mobile/Size/One Third
+Signature: cJIO9BxQM1MKg5MxHb2lF+QqRh+P41voB4HkNEfOJyo=
+Modified: 638182361583070554
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\tailwind\Tailwind\Tailwind\Tablet\Size\One Sixth.yml
+ID: "3757d046-39da-4f62-9eee-79037e36a0e2"
+Parent: "aa77224d-216f-4551-9f21-d98343006ee6"
+Template: "cb3b3906-be80-4d9b-a2a4-038193da5422"
+Path: /sitecore/system/Settings/Feature/Tailwind/Tailwind/Tablet/Size/One Sixth
+Signature: I0rzsnRLYL8y1xkTMcPhvSrVjADjE5DqFzBqoiaHd6M=
+Modified: 638182361583612659
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\tailwind\Tailwind\Tailwind\Desktop\Size\Two Thirds.yml
+ID: "54632293-2092-48c4-ae68-e1a4960c278d"
+Parent: "3bfc12ec-3da8-4bb7-b14b-0d52b65f1339"
+Template: "cb3b3906-be80-4d9b-a2a4-038193da5422"
+Path: /sitecore/system/Settings/Feature/Tailwind/Tailwind/Desktop/Size/Two Thirds
+Signature: xgG8L9FcPWf9V9jqeKf8+NOHFiaPcEGFWjAUwwCYsNI=
+Modified: 638182361584420768
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\tailwind\Tailwind\Tailwind\Tablet\Size\Half.yml
+ID: "f1fc4b9a-9e61-44c7-baf4-8ce5b3430181"
+Parent: "aa77224d-216f-4551-9f21-d98343006ee6"
+Template: "cb3b3906-be80-4d9b-a2a4-038193da5422"
+Path: /sitecore/system/Settings/Feature/Tailwind/Tailwind/Tablet/Size/Half
+Signature: vzF6wxQHCXm6WjneOK2qClHTzhFyeF/p4DrGuUHapAM=
+Modified: 638182361583270116
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\tailwind\Tailwind\Tailwind\Tablet\Size\TwoThirds.yml
+ID: "7c865b1c-9927-4600-a9b9-22266049953b"
+Parent: "aa77224d-216f-4551-9f21-d98343006ee6"
+Template: "cb3b3906-be80-4d9b-a2a4-038193da5422"
+Path: /sitecore/system/Settings/Feature/Tailwind/Tailwind/Tablet/Size/TwoThirds
+Signature: xgG8L9FcPWf9V9jqeKf8+NOHFiaPcEGFWjAUwwCYsNI=
+Modified: 638182361583831362
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\tailwind\Tailwind.yml
+ID: "3e03935b-7e44-43cb-85e5-dbaaa19a9cac"
+Parent: "256655ec-8f3a-45b5-ad90-b63bc25b8067"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/system/Settings/Feature/Tailwind
+Signature: nMhK56R+Olwa3iHlqpI776+6nVoirNgfOJVe0rUvVnk=
+Modified: 638182361581858737
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\tailwind\Tailwind\Tailwind\Desktop.yml
+ID: "f600de72-347b-4f27-ab7d-15784060580d"
+Parent: "edceed34-1772-4f0e-af69-cbb2196355d1"
+Template: "bca0e629-150f-41dd-893b-f4b65338c0b7"
+Path: /sitecore/system/Settings/Feature/Tailwind/Tailwind/Desktop
+Signature: TDqDrIE8bkr335etRYTH8fwyfULNHBSMSENbNiDYiZc=
+Modified: 638182361582279220
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\tailwind\Tailwind\Tailwind\Desktop\Size.yml
+ID: "3bfc12ec-3da8-4bb7-b14b-0d52b65f1339"
+Parent: "f600de72-347b-4f27-ab7d-15784060580d"
+Template: "5e32e75f-446a-412c-8ed8-922320ae9031"
+Path: /sitecore/system/Settings/Feature/Tailwind/Tailwind/Desktop/Size
+Signature: MH3BQi+UKqUjHv9dcX8F7ud8uUlhQb02uNff7XVqHA0=
+Modified: 638182361582589322
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\tailwind\Tailwind\Tailwind\Desktop\Size\One Third.yml
+ID: "c16b51c0-5154-4901-9d39-09e85286b08c"
+Parent: "3bfc12ec-3da8-4bb7-b14b-0d52b65f1339"
+Template: "cb3b3906-be80-4d9b-a2a4-038193da5422"
+Path: /sitecore/system/Settings/Feature/Tailwind/Tailwind/Desktop/Size/One Third
+Signature: vRtkfGzIWwBbZGfUY7RqiSQwWlAA4eeRBVAiA2akJVQ=
+Modified: 638182361584325545
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\tailwind\Tailwind\Tailwind\Mobile\Size\Two Thirds.yml
+ID: "7d3a479f-f1b7-4318-ba4b-6f6ed678e4a8"
+Parent: "ecff1527-8784-459c-bf4b-01080fa7ef96"
+Template: "cb3b3906-be80-4d9b-a2a4-038193da5422"
+Path: /sitecore/system/Settings/Feature/Tailwind/Tailwind/Mobile/Size/Two Thirds
+Signature: xgG8L9FcPWf9V9jqeKf8+NOHFiaPcEGFWjAUwwCYsNI=
+Modified: 638182361583159304
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\tailwind\Tailwind\Tailwind\Tablet\Size\OneThird.yml
+ID: "44637734-8adc-45b2-b3a1-1550ba291077"
+Parent: "aa77224d-216f-4551-9f21-d98343006ee6"
+Template: "cb3b3906-be80-4d9b-a2a4-038193da5422"
+Path: /sitecore/system/Settings/Feature/Tailwind/Tailwind/Tablet/Size/OneThird
+Signature: NoDqLiO3GM/rIIhGw/eFZVUtbAJmBmZ09MZeAoNzxvI=
+Modified: 638182361583718015

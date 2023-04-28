@@ -1,0 +1,27 @@
+﻿---
+ID: "d7b2957b-7f70-4aae-bd80-d633e6135eb8"
+Parent: "2841fab8-749a-4a89-829d-4440729a5a05"
+Template: "39a9ed72-407d-4440-ba50-30956834794e"
+Path: "/sitecore/content/Headless/jss-column-splitter-example/Presentation/Available Renderings"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230427T035853Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ac2e383-fc1b-4e6a-ac03-ab09f74fa059"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230427T035853Z

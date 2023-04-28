@@ -1,0 +1,244 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\templates\JSS Experience Accelerator\Page Content.yml
+ID: "cd25209f-df1e-4939-84d2-0cfed62b1b1c"
+Parent: "3a7e1003-9223-4cfd-b8f5-1b1d62a0de37"
+Template: "239f9cf4-e5a0-44e0-b342-0f32cd4c6d8b"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content
+Signature: b1ah5HCHawXe/knjw02zf6Qdf4hocz/+ehfIN0bXQBc=
+Modified: 638182361577557121
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\templates\JSS Experience Accelerator\Page Structure.yml
+ID: "332b7c67-2b88-4f8c-bcc4-77a033d1a8db"
+Parent: "3a7e1003-9223-4cfd-b8f5-1b1d62a0de37"
+Template: "239f9cf4-e5a0-44e0-b342-0f32cd4c6d8b"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Structure
+Signature: ZPGNF4tDqvRX5QpHXoY+TBt2k/iDMiCo3EyVAPT6mho=
+Modified: 638182361577770299
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\templates\JSS Experience Accelerator\Page Structure\Rendering Parameters.yml
+ID: "d3e8a3ba-0cd5-4572-97d2-5957b2e4dfb7"
+Parent: "332b7c67-2b88-4f8c-bcc4-77a033d1a8db"
+Template: "239f9cf4-e5a0-44e0-b342-0f32cd4c6d8b"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Structure/Rendering Parameters
+Signature: ZPGNF4tDqvRX5QpHXoY+TBt2k/iDMiCo3EyVAPT6mho=
+Modified: 638182361578017198
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\templates\JSS Experience Accelerator\Page Content\Text\Text.yml
+ID: "3a632f18-9fe1-4edf-a4a1-f2b33df4bdd4"
+Parent: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Text/Text
+Signature: 0emf3x05/XLELdzT4aECvoxizuib2fcEFKB9TwCdB58=
+Modified: 638182361578116304
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\templates\JSS Experience Accelerator\Page Content\Text\Text\Text.yml
+ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+Parent: "3a632f18-9fe1-4edf-a4a1-f2b33df4bdd4"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Text/Text/Text
+Signature: 3BhLgZSsKeJkSRQAeH/VSxE4ZAYDvv7stTeu8rbcABE=
+Modified: 638182361578323987
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\templates\JSS Experience Accelerator\Page Structure\Rendering Parameters\ColumnSplitter\Grid.yml
+ID: "4fb05962-b924-42a0-92e2-b75dada6cf5c"
+Parent: "181740ea-a7ae-4799-a649-a75917570e38"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Structure/Rendering Parameters/ColumnSplitter/Grid
+Signature: 7iG4ifqTTKxH/ykx0W/D6liQVx4BWeV4aymmbytfBJg=
+Modified: 638182361578445039
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\templates\JSS Experience Accelerator\Page Structure\Rendering Parameters\ColumnSplitter\Grid\ColumnWidth4.yml
+ID: "4496cf32-a24c-4210-8eff-b3fc62c967f1"
+Parent: "4fb05962-b924-42a0-92e2-b75dada6cf5c"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Structure/Rendering Parameters/ColumnSplitter/Grid/ColumnWidth4
+Signature: ym3kQUNSPzgNe/ObHLJt+ONuCU+/h43Fb8J8eZ9npqs=
+Modified: 638182361579017706
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\templates\JSS Experience Accelerator\Page Structure\Rendering Parameters\ColumnSplitter\Grid\ColumnWidth2.yml
+ID: "718ce476-be2d-4456-8b3d-cf0f2a312cdf"
+Parent: "4fb05962-b924-42a0-92e2-b75dada6cf5c"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Structure/Rendering Parameters/ColumnSplitter/Grid/ColumnWidth2
+Signature: JHE3HMy4MSRuH6+JKPDQO7pQNPgXhG3ijWLBMioQric=
+Modified: 638182361578820924
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\templates\JSS Experience Accelerator\Page Structure\Rendering Parameters\ColumnSplitter\Grid\ColumnWidth1.yml
+ID: "292e92d0-5e59-48b4-8271-1ee910cfa0bc"
+Parent: "4fb05962-b924-42a0-92e2-b75dada6cf5c"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Structure/Rendering Parameters/ColumnSplitter/Grid/ColumnWidth1
+Signature: tB6eoJuhCPdDAuDeEqCziLx+QG7Qc47oxkV2WgE1RGM=
+Modified: 638182361578704269
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\templates\JSS Experience Accelerator\Page Structure\Rendering Parameters\ColumnSplitter\Grid\ColumnWidth6.yml
+ID: "33beaa03-6cbc-497a-a8f9-0979f06ed121"
+Parent: "4fb05962-b924-42a0-92e2-b75dada6cf5c"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Structure/Rendering Parameters/ColumnSplitter/Grid/ColumnWidth6
+Signature: duPyL650aBsJ/YKDw5MylG+Bq5lcJ3zi8serd+ydJpw=
+Modified: 638182361579214314
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\templates\JSS Experience Accelerator\Page Structure\Rendering Parameters\ColumnSplitter\Styling\Styles1.yml
+ID: "a2c4abb2-90e9-4866-a428-753bf286c7a5"
+Parent: "326f217e-fbb7-4be5-beea-2bc95810ba1d"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Structure/Rendering Parameters/ColumnSplitter/Styling/Styles1
+Signature: jFK7hW4SUFT7MQEM657ju55Uel/17Asi8gGJuJ0dIl4=
+Modified: 638182361579582543
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\templates\JSS Experience Accelerator\Page Structure\Rendering Parameters\ColumnSplitter\Grid\ColumnWidth5.yml
+ID: "7cbf006e-6cfc-4e54-beeb-bb07542f289f"
+Parent: "4fb05962-b924-42a0-92e2-b75dada6cf5c"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Structure/Rendering Parameters/ColumnSplitter/Grid/ColumnWidth5
+Signature: 2loVPzzdEs8WBSuRG0wIQiGbp4ZiZ2qR7YscZmsjFlM=
+Modified: 638182361579119040
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\templates\JSS Experience Accelerator\Page Structure\Rendering Parameters\ColumnSplitter\Styling\Styles3.yml
+ID: "591a783f-f3fd-4239-b233-1dad96d18be2"
+Parent: "326f217e-fbb7-4be5-beea-2bc95810ba1d"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Structure/Rendering Parameters/ColumnSplitter/Styling/Styles3
+Signature: 4iISeT8iXuN4vYZJmhjFVJQYqmE6MoRB5PRAzTIMtDc=
+Modified: 638182361579779265
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\templates\JSS Experience Accelerator\Page Structure\Rendering Parameters\ColumnSplitter\Styling\Styles6.yml
+ID: "9f5dcccf-418d-49a2-8df9-b43f4011b0d1"
+Parent: "326f217e-fbb7-4be5-beea-2bc95810ba1d"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Structure/Rendering Parameters/ColumnSplitter/Styling/Styles6
+Signature: jML/yUPrGTDa0ABaUAqOAgyQVJexP5nVi5ur6859lRw=
+Modified: 638182361580045679
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\templates\JSS Experience Accelerator\Page Structure\Rendering Parameters\ColumnSplitter\Styling\Styles2.yml
+ID: "79777c28-bcd3-4c20-8c2a-abc99c3a4a6a"
+Parent: "326f217e-fbb7-4be5-beea-2bc95810ba1d"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Structure/Rendering Parameters/ColumnSplitter/Styling/Styles2
+Signature: qnkvnjK7UfWCl/wC4xVgLlWeCLTtamHDNcYMmq0VuZE=
+Modified: 638182361579683793
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\templates\JSS Experience Accelerator.yml
+ID: "3a7e1003-9223-4cfd-b8f5-1b1d62a0de37"
+Parent: "8f343079-3cc5-4ef7-bc27-32addb46f45e"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator
+Signature: xr+gEDYJsbIuomNU6kdYbQXR5EE8t77mdMcUiM/jUdE=
+Modified: 638182361577457259
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\templates\JSS Experience Accelerator\Page Content\Text.yml
+ID: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Parent: "cd25209f-df1e-4939-84d2-0cfed62b1b1c"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Content/Text
+Signature: Ev73BPwVwP0xKicrX+ZUA0B+LYKF0tCzWpc2rbr9E0c=
+Modified: 638182361577901350
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\templates\JSS Experience Accelerator\Page Structure\Rendering Parameters\ColumnSplitter\Styling.yml
+ID: "326f217e-fbb7-4be5-beea-2bc95810ba1d"
+Parent: "181740ea-a7ae-4799-a649-a75917570e38"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Structure/Rendering Parameters/ColumnSplitter/Styling
+Signature: vxHseSnsZwCs8d6qgbOqCFZWLDW8zuZGxSdyV2sFcAM=
+Modified: 638182361578598064
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\templates\JSS Experience Accelerator\Page Structure\Rendering Parameters\ColumnSplitter.yml
+ID: "181740ea-a7ae-4799-a649-a75917570e38"
+Parent: "d3e8a3ba-0cd5-4572-97d2-5957b2e4dfb7"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Structure/Rendering Parameters/ColumnSplitter
+Signature: RnS3DgF5kWsLuy0fA+OszxSbuXxrazTmwbaNJGFFUmc=
+Modified: 638182361578232521
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\templates\JSS Experience Accelerator\Page Structure\Rendering Parameters\ColumnSplitter\__Standard Values.yml
+ID: "f0a4dcda-bff8-4398-b26a-de8e9fcccc64"
+Parent: "181740ea-a7ae-4799-a649-a75917570e38"
+Template: "181740ea-a7ae-4799-a649-a75917570e38"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Structure/Rendering Parameters/ColumnSplitter/__Standard Values
+Signature: UuMdvqh8H+xqCZfgDpb5HQ0CsdeZPBx58v6jdaofNjE=
+Modified: 638182361581793626
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\templates\JSS Experience Accelerator\Page Structure\Rendering Parameters\ColumnSplitter\Grid\ColumnWidth3.yml
+ID: "bba175b5-49f3-41e7-953d-5615c842530f"
+Parent: "4fb05962-b924-42a0-92e2-b75dada6cf5c"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Structure/Rendering Parameters/ColumnSplitter/Grid/ColumnWidth3
+Signature: VgsSLCnseddFphrTVVuclT7J1Wnql3bzxTmTq4xKAGw=
+Modified: 638182361578922025
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\templates\JSS Experience Accelerator\Page Structure\Rendering Parameters\ColumnSplitter\Grid\ColumnWidth7.yml
+ID: "3e3b0657-1079-4e0b-ae04-bd9e93eca36b"
+Parent: "4fb05962-b924-42a0-92e2-b75dada6cf5c"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Structure/Rendering Parameters/ColumnSplitter/Grid/ColumnWidth7
+Signature: vfRKUJBJFNAx4m2Ssgovy+v9ANTgz3FPWRe5Dl1/VpA=
+Modified: 638182361579339597
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\templates\JSS Experience Accelerator\Page Structure\Rendering Parameters\ColumnSplitter\Grid\ColumnWidth8.yml
+ID: "bb9fc77c-03c2-4c51-a620-5c65513711f1"
+Parent: "4fb05962-b924-42a0-92e2-b75dada6cf5c"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Structure/Rendering Parameters/ColumnSplitter/Grid/ColumnWidth8
+Signature: f58Ts7WCjEI2hA7r21fa1v8Tn5MPmvf27AyoevAFAoU=
+Modified: 638182361579440615
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\templates\JSS Experience Accelerator\Page Structure\Rendering Parameters\ColumnSplitter\Styling\Styles4.yml
+ID: "fdda06c2-8d15-46e7-a562-0f8de50aaedd"
+Parent: "326f217e-fbb7-4be5-beea-2bc95810ba1d"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Structure/Rendering Parameters/ColumnSplitter/Styling/Styles4
+Signature: Jb84HngHydDfAAueF6GGWyARS1c/6dXNuDMoh5uZtDY=
+Modified: 638182361579869810
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\templates\JSS Experience Accelerator\Page Structure\Rendering Parameters\ColumnSplitter\Styling\Styles5.yml
+ID: "150e00cc-82c8-4ce5-8b46-86a2769d481d"
+Parent: "326f217e-fbb7-4be5-beea-2bc95810ba1d"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Structure/Rendering Parameters/ColumnSplitter/Styling/Styles5
+Signature: C6G2XQcqZTumb2JP5MReKNqiKSdt8qeRujG2Z4EgQT0=
+Modified: 638182361579955925
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\templates\JSS Experience Accelerator\Page Structure\Rendering Parameters\ColumnSplitter\Styling\Styles7.yml
+ID: "56eff754-65c8-4470-992a-1b1ed8a06014"
+Parent: "326f217e-fbb7-4be5-beea-2bc95810ba1d"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Structure/Rendering Parameters/ColumnSplitter/Styling/Styles7
+Signature: KEdDUFHyTVEKVMH/Z2Lhsvvy0JcJRU17O+d+o4B74do=
+Modified: 638182361580135785
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\templates\JSS Experience Accelerator\Page Structure\Rendering Parameters\ColumnSplitter\Styling\Styles8.yml
+ID: "47941461-f5b5-4707-804b-69990971e6a1"
+Parent: "326f217e-fbb7-4be5-beea-2bc95810ba1d"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Structure/Rendering Parameters/ColumnSplitter/Styling/Styles8
+Signature: Vt3sMtqTJbKvKu6JAbwBL6GtlEOtTgDU45YC5ALFj6E=
+Modified: 638182361580223300

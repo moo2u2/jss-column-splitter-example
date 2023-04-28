@@ -1,0 +1,19 @@
+{
+    "namespace": "Content",
+    "items": {
+        "includes": [
+            {
+                "name": "placeholders-project",
+                "path": "/sitecore/layout/Placeholder Settings/Project/Headless",
+                "allowedPushOperations": "CreateAndUpdate",
+                "scope": "itemAndDescendants"
+            },
+            {
+                "name": "content",
+                "path": "/sitecore/content/Headless",
+                "allowedPushOperations": "CreateAndUpdate",
+                "scope": "itemAndDescendants"
+            },
+        ]
+    }
+}

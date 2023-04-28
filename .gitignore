@@ -1,5 +1,8 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
+# development
+.vscode
+
 # dependencies
 /node_modules
 
@@ -26,6 +29,7 @@
 *.log*
 
 # sitecore
+.sitecore
 scjssconfig.json
 *.deploysecret.config
 

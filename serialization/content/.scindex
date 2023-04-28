@@ -1,0 +1,244 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\content\Headless\jss-column-splitter-example\Presentation\Styles\Column Splitter.yml
+ID: "e2c102c4-8fd9-455f-ba0e-8697e8ba9381"
+Parent: "cc7d85d4-0b97-4003-b0eb-b35325fba469"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: "/sitecore/content/Headless/jss-column-splitter-example/Presentation/Styles/Column Splitter"
+Signature: 4dF3Tldvo8AxzRPGKxZ5Ok4gimd9WMuN1PnbIAoD6q4=
+Modified: 638182361588728424
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\content\Headless\jss-column-splitter-example\Home.yml
+ID: "747c1905-c411-40a2-8c60-05dfa6016ada"
+Parent: "6d017df8-6ba5-42c3-b634-928dc9a187ee"
+Template: "cadf4158-e95c-4e9d-bb8d-70abb525939f"
+Path: "/sitecore/content/Headless/jss-column-splitter-example/Home"
+Signature: VJudTDdVo2nWpixsKBLvXnCrP6rp/YLJ0wMwA0RSdD8=
+Modified: 638182361586519314
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\content\Headless\jss-column-splitter-example\Presentation\Available Renderings.yml
+ID: "d7b2957b-7f70-4aae-bd80-d633e6135eb8"
+Parent: "2841fab8-749a-4a89-829d-4440729a5a05"
+Template: "39a9ed72-407d-4440-ba50-30956834794e"
+Path: "/sitecore/content/Headless/jss-column-splitter-example/Presentation/Available Renderings"
+Signature: pkg3B9mp9vM3LysNztXKvoj4jyh9UttLHeiLdGIU/js=
+Modified: 638182361587424437
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\content\Headless\jss-column-splitter-example\Settings\Site Grouping.yml
+ID: "4ffb7001-660c-4f8d-b93d-57a381e3efd1"
+Parent: "3b0be892-79f9-400a-bff6-3d8581ab435b"
+Template: "8357f958-9aaa-46db-8898-36448a96356f"
+Path: "/sitecore/content/Headless/jss-column-splitter-example/Settings/Site Grouping"
+Signature: n5lutwMAt66y9bTVRhV98IN5L9Xwjlfb6pzi+YztJew=
+Modified: 638182361588039775
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\content\Headless\jss-column-splitter-example\Settings\Site Grouping\jss-column-splitter-example.yml
+ID: "0a76ce18-2e98-49a6-95fb-ecc7428b047a"
+Parent: "4ffb7001-660c-4f8d-b93d-57a381e3efd1"
+Template: "e46f3af2-39fa-4866-a157-7017c4b2a40c"
+Path: "/sitecore/content/Headless/jss-column-splitter-example/Settings/Site Grouping/jss-column-splitter-example"
+Signature: TkgXqFAnRldfqCzUpDF8lu1Rkk0Lx9K0jSi8J5Dk+qI=
+Modified: 638182361588872177
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\content\Headless\jss-column-splitter-example\Data.yml
+ID: "3e7990f6-dc9d-4ab6-a006-563ada5f2797"
+Parent: "6d017df8-6ba5-42c3-b634-928dc9a187ee"
+Template: "a29d272e-9d48-453c-9e9d-b47585fa7f20"
+Path: "/sitecore/content/Headless/jss-column-splitter-example/Data"
+Signature: IKmexwALAIeJvVXCXU+Mt0Uwkae0pS93ziX995jotWc=
+Modified: 638182361586776318
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\content\Headless\jss-column-splitter-example\Media.yml
+ID: "5c3711f6-f39f-42e2-8bac-f0e5a2890e11"
+Parent: "6d017df8-6ba5-42c3-b634-928dc9a187ee"
+Template: "e8e8c94f-4248-43c3-a79f-99fbb49d78e6"
+Path: "/sitecore/content/Headless/jss-column-splitter-example/Media"
+Signature: g9JmAhIN05PIUWRx9sEaauezI/Qu2FPAjomDDTaY6N8=
+Modified: 638182361586629902
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\content\Headless\jss-column-splitter-example\Presentation\Page Designs.yml
+ID: "b8abed7e-8ae4-43e5-a31b-daaca981b958"
+Parent: "2841fab8-749a-4a89-829d-4440729a5a05"
+Template: "8282f6b4-d1a5-45a9-9c40-9733f11f9404"
+Path: "/sitecore/content/Headless/jss-column-splitter-example/Presentation/Page Designs"
+Signature: i3+tJKIBn1LlJMWMAsmTsPC3xpgdEQBQR03lF4MLmqA=
+Modified: 638182361587530438
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\content\Headless\jss-column-splitter-example\Settings\Shared Sites Settings.yml
+ID: "27e0580d-ca6d-4479-a48e-024ef754f42f"
+Parent: "3b0be892-79f9-400a-bff6-3d8581ab435b"
+Template: "c14bf746-030f-4e59-8594-395f6d299e61"
+Path: "/sitecore/content/Headless/jss-column-splitter-example/Settings/Shared Sites Settings"
+Signature: KfDf1SJIBBS5pP5sITkg1S6NZKfiUx2RiSmXjnNg0XY=
+Modified: 638182361587926533
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\content\Headless\jss-column-splitter-example\Presentation\Styles\Column Splitter\Black.yml
+ID: "3f810ca8-955f-45b8-ba7f-753fb80700da"
+Parent: "e2c102c4-8fd9-455f-ba0e-8697e8ba9381"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/Headless/jss-column-splitter-example/Presentation/Styles/Column Splitter/Black"
+Signature: IPwwvWGVmfVIYl8EsZ1PLobxj6Kvx5MOM7pmaLDoDyI=
+Modified: 638182361588988702
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\content\Headless.yml
+ID: "217c06b3-17cc-40da-9b4e-2d681b402cf6"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "d774f6e1-7c35-4972-ab16-cb678e605b96"
+Path: /sitecore/content/Headless
+Signature: ssjHoL/YOWENRbqT6bUm0d6L99XapDXdJjDzN88U1e4=
+Modified: 638182361586284970
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\content\Headless\jss-column-splitter-example\Presentation.yml
+ID: "2841fab8-749a-4a89-829d-4440729a5a05"
+Parent: "6d017df8-6ba5-42c3-b634-928dc9a187ee"
+Template: "0a70fa73-8923-4a6e-abf3-4134f25f3221"
+Path: "/sitecore/content/Headless/jss-column-splitter-example/Presentation"
+Signature: lSWwdu4SgmPeMetdXVfgjgeBQeKYponVf/6UlxmsiTA=
+Modified: 638182361587060655
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\content\Headless\jss-column-splitter-example\Presentation\Styles.yml
+ID: "cc7d85d4-0b97-4003-b0eb-b35325fba469"
+Parent: "2841fab8-749a-4a89-829d-4440729a5a05"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: "/sitecore/content/Headless/jss-column-splitter-example/Presentation/Styles"
+Signature: y24k6+5HC8WGJqsbSPhWqvEitcw/EBm1zNvm5GpSvUA=
+Modified: 638182361587809934
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\content\Headless\jss-column-splitter-example\Presentation\Available Renderings\Page Content.yml
+ID: "4d11b099-cd41-40f3-b0b2-b2c22d8a7aa2"
+Parent: "d7b2957b-7f70-4aae-bd80-d633e6135eb8"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: "/sitecore/content/Headless/jss-column-splitter-example/Presentation/Available Renderings/Page Content"
+Signature: grr80q/MliV2JH2bJu4V6J2Y4pVhUVALMX655wnDfm4=
+Modified: 638182361588288618
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\content\Headless\jss-column-splitter-example\Presentation\Styles\Column Splitter\Border.yml
+ID: "f89799be-1826-4506-9354-260700a16d8f"
+Parent: "e2c102c4-8fd9-455f-ba0e-8697e8ba9381"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/Headless/jss-column-splitter-example/Presentation/Styles/Column Splitter/Border"
+Signature: dHUPQUHgNwfI8Gn7syCgZHHwjf44AtOC8spbceJU7QU=
+Modified: 638182361589218794
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\content\Headless\jss-column-splitter-example\Dictionary.yml
+ID: "695e7982-7b38-4cc1-8a52-cceb736d4551"
+Parent: "6d017df8-6ba5-42c3-b634-928dc9a187ee"
+Template: "0a2847e6-9885-450b-b61e-f9e6528480ef"
+Path: "/sitecore/content/Headless/jss-column-splitter-example/Dictionary"
+Signature: TTPvDCFWYcU3nAXjSlg9VXrfJGQclP/VIanfEWW9iZ4=
+Modified: 638182361586939878
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\content\Headless\jss-column-splitter-example\Home\Data.yml
+ID: "03918386-023e-49f5-a172-7de168487b5b"
+Parent: "747c1905-c411-40a2-8c60-05dfa6016ada"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Headless/jss-column-splitter-example/Home/Data"
+Signature: 7OAJ615scU53ReQdeuvcK9HFN/z8u6sbVaINAuQBeVM=
+Modified: 638182361587288810
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\content\Headless\jss-column-splitter-example\Presentation\Partial Designs.yml
+ID: "2d9744b4-e22a-4036-b095-34662f1397c3"
+Parent: "2841fab8-749a-4a89-829d-4440729a5a05"
+Template: "c840dd30-9f38-4469-bd96-6efa32bd9b9f"
+Path: "/sitecore/content/Headless/jss-column-splitter-example/Presentation/Partial Designs"
+Signature: Vym8UPrHwItzVupa2tszD17rftuMzH1UfjY1MUS2dzc=
+Modified: 638182361587627307
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\content\Headless\jss-column-splitter-example\Presentation\Available Renderings\Page Structure.yml
+ID: "c9f9db2e-21be-473b-9cdd-9092bf14f2b4"
+Parent: "d7b2957b-7f70-4aae-bd80-d633e6135eb8"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: "/sitecore/content/Headless/jss-column-splitter-example/Presentation/Available Renderings/Page Structure"
+Signature: zyseZFkfNotyvugGv04CRal46/3r9pYgs7ZfFX4duu8=
+Modified: 638182361588415595
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\content\Headless\jss-column-splitter-example\Presentation\Styles\Column Splitter\Blue.yml
+ID: "171d5c29-0adb-44c8-894b-177ff85b60a3"
+Parent: "e2c102c4-8fd9-455f-ba0e-8697e8ba9381"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/Headless/jss-column-splitter-example/Presentation/Styles/Column Splitter/Blue"
+Signature: RwQO9UiFfsRHJhobLG6Y+kNb9Aa52kUBUBDbikPkJvg=
+Modified: 638182361589109106
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\content\Headless\jss-column-splitter-example.yml
+ID: "6d017df8-6ba5-42c3-b634-928dc9a187ee"
+Parent: "217c06b3-17cc-40da-9b4e-2d681b402cf6"
+Template: "1b17fbe0-a8a2-4a06-9cb7-6b6b4f406b1d"
+Path: "/sitecore/content/Headless/jss-column-splitter-example"
+Signature: /xpjmISQHPbq98Xe5yAKIvOKMsc07sJDkU5xHC9tyLg=
+Modified: 638182361586390424
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\content\Headless\jss-column-splitter-example\Home\Data\Text 1.yml
+ID: "7c4098f0-4395-4868-af5e-135fd1ab1fbd"
+Parent: "03918386-023e-49f5-a172-7de168487b5b"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/Headless/jss-column-splitter-example/Home/Data/Text 1"
+Signature: 4zHqabv+pSYB9mjTi/YiDpry/mhruE6eZAEmAxSzHF4=
+Modified: 638182361588158725
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\content\Headless\jss-column-splitter-example\Settings.yml
+ID: "3b0be892-79f9-400a-bff6-3d8581ab435b"
+Parent: "6d017df8-6ba5-42c3-b634-928dc9a187ee"
+Template: "ec848505-d30c-4bdc-a0aa-7cc9d320085e"
+Path: "/sitecore/content/Headless/jss-column-splitter-example/Settings"
+Signature: b/2I13j4GobjSnPDzzy2xg1Tix0V0r0iaLTsAdVw1gg=
+Modified: 638182361587170490
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\content\Headless\jss-column-splitter-example\Presentation\Styles\Column Splitter\White.yml
+ID: "86a29c4b-a88b-48bc-aaae-6b7b7ea614fd"
+Parent: "e2c102c4-8fd9-455f-ba0e-8697e8ba9381"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/Headless/jss-column-splitter-example/Presentation/Styles/Column Splitter/White"
+Signature: jvkDm+zDLWWIInldRtx3kE4fL68Yu4+z6no3n13T0NM=
+Modified: 638182361589461719
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\content\Headless\jss-column-splitter-example\Presentation\Placeholder Settings.yml
+ID: "a2386308-45f1-4556-b1af-5daffc63338c"
+Parent: "2841fab8-749a-4a89-829d-4440729a5a05"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: "/sitecore/content/Headless/jss-column-splitter-example/Presentation/Placeholder Settings"
+Signature: 1PTAA8CQtdvx5kKzZDxL7NlCtACS0ZbHruYFmjwCryY=
+Modified: 638182361587716010
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\content\Headless\jss-column-splitter-example\Presentation\Partial Designs\Empty.yml
+ID: "f296619e-ca29-4554-9e9b-2572b95afd56"
+Parent: "2d9744b4-e22a-4036-b095-34662f1397c3"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/Headless/jss-column-splitter-example/Presentation/Partial Designs/Empty"
+Signature: VwYTFTaT3sZHCiMoUUqckskxDX6UmxKpNVzzWVMSLpc=
+Modified: 638182361588561993
+---
+File: |
+  C:\Projects\jss-column-splitter-example\serialization\content\Headless\jss-column-splitter-example\Presentation\Styles\Column Splitter\Gray.yml
+ID: "2b1288d1-e51d-4f24-b312-7e277f1465c8"
+Parent: "e2c102c4-8fd9-455f-ba0e-8697e8ba9381"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/Headless/jss-column-splitter-example/Presentation/Styles/Column Splitter/Gray"
+Signature: AP0kosRnT7hgXNIJcIcU/XqJwFE5gueqoOZ6nciXV4A=
+Modified: 638182361589349658

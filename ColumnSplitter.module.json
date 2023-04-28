@@ -1,0 +1,37 @@
+{
+    "namespace": "ColumnSplitter",
+    "items": {
+        "includes": [
+            {
+                "name": "templates-related",
+                "path": "/sitecore/templates/Foundation/JSS Experience Accelerator/Presentation/Rendering Parameters",
+                "allowedPushOperations": "CreateAndUpdate",
+                "scope": "itemAndDescendants"
+            },
+            {
+                "name": "templates",
+                "path": "/sitecore/templates/Feature/JSS Experience Accelerator",
+                "allowedPushOperations": "CreateAndUpdate",
+                "scope": "itemAndDescendants"
+            },
+            {
+                "name": "tailwind",
+                "path": "/sitecore/system/Settings/Feature/Tailwind",
+                "allowedPushOperations": "CreateAndUpdate",
+                "scope": "itemAndDescendants"
+            },
+            {
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Feature/JSS Experience Accelerator",
+                "allowedPushOperations": "CreateAndUpdate",
+                "scope": "itemAndDescendants"
+            },
+            {
+                "name": "placeholders-sxa",
+                "path": "/sitecore/layout/Placeholder Settings/Feature/JSS Experience Accelerator/Page Structure",
+                "allowedPushOperations": "CreateAndUpdate",
+                "scope": "itemAndDescendants"
+            }
+        ]
+    }
+}

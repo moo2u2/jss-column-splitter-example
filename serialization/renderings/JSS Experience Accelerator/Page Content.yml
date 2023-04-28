@@ -1,0 +1,23 @@
+﻿---
+ID: "c49932e4-7b27-4c39-a1d2-64dc47af5b8e"
+Parent: "3b50355a-5e7c-4379-ad1f-a0b73d3a5aa9"
+Template: "239f9cf4-e5a0-44e0-b342-0f32cd4c6d8b"
+Path: /sitecore/layout/Renderings/Feature/JSS Experience Accelerator/Page Content
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230426T112027Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1b01f3f0-ac0e-46fe-ade9-01be7cda5898"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230426T112027Z

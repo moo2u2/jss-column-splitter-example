@@ -1,0 +1,20 @@
+﻿---
+ID: "a539233a-1277-479a-84a0-d5951c864d74"
+Parent: "05c09d9e-7ba3-4abb-a65c-d5badc8e8c3c"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/layout/Placeholder Settings/Feature/JSS Experience Accelerator/Page Structure/Column Splitter
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220829T071517Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8fcac3d6-7b54-4feb-be7a-9888c519ea91"
