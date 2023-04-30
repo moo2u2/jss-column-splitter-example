@@ -13,7 +13,7 @@ npm run storybook
 Follow along the blog post (link above) or use [Sitecore Content Serialization](https://doc.sitecore.com/xp/en/developers/102/developer-tools/log-in-to-a-sitecore-instance-with-sitecore-command-line-interface.html) to create the required items in Sitecore. 
 
 Supports Experience Editor for authors:
-![Storybook preview.](https://raw.githubusercontent.com/moo2u2/jss-column-splitter-example/tree/main/public/storybook_preview.png)
+![Experience Editor preview.](https://raw.githubusercontent.com/moo2u2/jss-column-splitter-example/main/public/experience_editor.png)
 ```
 jss setup
 jss start:connected
