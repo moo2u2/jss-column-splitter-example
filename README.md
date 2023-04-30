@@ -5,7 +5,7 @@ Back-port of the [XM Cloud sample repo ColumnSplitter](https://github.com/siteco
 Simply clone the repo, run an `npm install` and run storybook or [connected mode](https://doc.sitecore.com/xp/en/developers/hd/201/sitecore-headless-development/start-a-jss-app-in-connected-mode.html) to test it out. 
 
 Supports [Storybook](https://storybook.js.org) for previewing:
-![Storybook preview.](https://github.com/moo2u2/jss-column-splitter-example/tree/main/public/storybook_preview.png)
+![Storybook preview.](https://raw.githubusercontent.com/moo2u2/jss-column-splitter-example/main/public/storybook_preview.png)
 ```
 npm run storybook
 ```
@@ -13,7 +13,7 @@ npm run storybook
 Follow along the blog post (link above) or use [Sitecore Content Serialization](https://doc.sitecore.com/xp/en/developers/102/developer-tools/log-in-to-a-sitecore-instance-with-sitecore-command-line-interface.html) to create the required items in Sitecore. 
 
 Supports Experience Editor for authors:
-![Storybook preview.](https://github.com/moo2u2/jss-column-splitter-example/tree/main/public/storybook_preview.png)
+![Storybook preview.](https://raw.githubusercontent.com/moo2u2/jss-column-splitter-example/tree/main/public/storybook_preview.png)
 ```
 jss setup
 jss start:connected
